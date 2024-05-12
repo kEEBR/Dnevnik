@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022890653288",
+    "project_id": "dnevnik-sstu",
+    "storage_bucket": "dnevnik-sstu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022890653288:android:7a51e44ff83a257dec6ddd",
+        "android_client_info": {
+          "package_name": "com.example.hi_flutter_lovers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWHQireLkYxcGWU7dZTT-xKpHfdCIsxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
